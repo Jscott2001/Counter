@@ -13,7 +13,7 @@ public class CounterApplication {
         FancyCounter goats = new FancyCounter();
         Scanner stdin = new Scanner(System.in);
 
-        System.out.println("Welcome to the Counter application");
+        System.out.println("Welcome to the Tally Counter application");
         System.out.println("1 = Increment, 2 = Decrement, 3 = Reset, 0 = Exit");
         do {
             System.out.println("Number of sheep = " + sheep);
